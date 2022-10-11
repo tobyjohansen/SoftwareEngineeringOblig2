@@ -5,6 +5,6 @@ const isLeapYear = (year) => {
   return false;
 };
 
-isLeapYear(2000);
+isLeapYear(3000);
 
 exports.isLeapYear = isLeapYear;
